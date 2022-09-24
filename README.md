@@ -1,2 +1,2 @@
-# Wiki-For-Linux
-Here is everything important wiki!
+# Commands-For-Linux
+Welcome to the Commands-For-Linux wiki!
