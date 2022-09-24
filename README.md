@@ -4,7 +4,7 @@ Welcome to the Commands-For-Linux wiki!
 
 * _[Basic File system commands](https://github.com/vaaakoo/Commands-For-Linux/wiki/Basic-File-system-commands)_
 * _[Tree](https://github.com/vaaakoo/Commands-For-Linux/wiki/Tree)_
-* _[Copy, move and remove](https://github.com/vaaakoo/Commands-For-Linux/wiki/Copy,-Paste,-Move-and-Remove)_
+* _[Copy, move and remove](https://github.com/vaaakoo/Commands-For-Linux/wiki/Copy,-Move-and-Remove#deleting-files-and-directories)_
 * _[Top : Show Current Running Process](https://github.com/vaaakoo/Commands-For-Linux/wiki/Top-:-Show-Current-Running-Process)_
 
 
