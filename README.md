@@ -5,7 +5,7 @@ Welcome to the Commands-For-Linux wiki!
 * _[Basic File system commands](https://github.com/vaaakoo/Commands-For-Linux/wiki/Basic-File-system-commands)_
 * _[Classic SysAdmin: Understanding Linux File Permissions](https://github.com/vaaakoo/Commands-For-Linux/wiki/Classic-SysAdmin:-Understanding-Linux-File-Permissions)_
 * _[Tree](https://github.com/vaaakoo/Commands-For-Linux/wiki/Tree)_
-* _[Copy, move and remove](https://github.com/vaaakoo/Commands-For-Linux/wiki/Copy,-Paste,-Move-and-Remove)_
+* _[Copy, move and remove](https://github.com/vaaakoo/Commands-For-Linux/wiki/Copy,-Move-and-Remove)_
 * _[Top : Show Current Running Process](https://github.com/vaaakoo/Commands-For-Linux/wiki/Top-:-Show-Current-Running-Process)_
 * _[find & locate : locating files on Linux](https://github.com/vaaakoo/Commands-For-Linux/wiki/find-&-locate-:-locating-files-on-Linux)_
 
